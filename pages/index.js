@@ -10,7 +10,7 @@ export default function Home() {
       <Head>
         <title>{siteTitle}</title>
       </Head>
-      <section className={utilStyles.headingMd}>
+      <sdiv className={utilStyles.headingMd}>
         <p>Florida Combat Academy</p>
         <p>
           Private Media App
@@ -18,7 +18,7 @@ export default function Home() {
         <p>
           <a href="https://attrockledge.com">Our Public Page</a>
         </p>
-      </section>
+      </sdiv>
     </Layout>
   );
 }
