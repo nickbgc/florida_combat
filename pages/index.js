@@ -11,7 +11,6 @@ export default function Home() {
         <title>{siteTitle}</title>
       </Head>
       <sdiv className={utilStyles.headingMd}>
-        <p>Florida Combat Academy</p>
         <p>
           Private Media App
         </p>
